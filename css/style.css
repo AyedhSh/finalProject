@@ -1,0 +1,45 @@
+body {
+  background-color: #ccc;
+}
+#logo p {
+  color: #f3605d;
+  font-size: 1.5em;
+  margin-left: 3%;
+}
+#logo p span {
+  color: #fdb7ad;
+}
+header {
+  background-color: #2e2e2e; 
+  padding: 1% 3% 2% 3%;
+}
+header a {
+  text-decoration: none;
+  color: white;
+}
+nav ul li {
+  float: left;
+  color: #e8491d;
+  background-color: #e74c3c;
+  padding: 0.5% 4% 0.5% 4%;
+  list-style: none;
+  margin-top: -0.3%
+}
+#expandNav {
+  padding-right: 30%
+}
+#google {
+  background-color: #cd3724;
+  padding: 0.5% 1% 0.5% 1%;
+}
+/*********************************************/
+
+#content {
+  background-color: #bdc3c7;
+}
+#content img {
+  border-radius: 50%;
+  height:14%;
+  width: 14%;
+  margin: 2% 1% 2% 43%;
+}
